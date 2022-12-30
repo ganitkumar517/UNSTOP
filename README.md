@@ -1,6 +1,6 @@
 This is a responsive ticket booking app for a train.
 
-Tech stack Used: ReactJS
+Tech stack Used: ReactJS, HTML, CSS.
 
 Hosted URL: https://shiny-begonia-aecfe1.netlify.app/
 
